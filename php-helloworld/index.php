@@ -1,3 +1,3 @@
 <?php
-print "O José ama muito a Alessandra, também conhecida como minhoquinha";
+print "O Jose ama muito a Alessandra, tambem conhecida como minhoquinha " . PHP_VERSION . "\n";
 ?>
